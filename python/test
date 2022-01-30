@@ -8,3 +8,6 @@ nums = [2, 12, 15, 11, 7, 19, 45]
 target = 7
 print(search(nums, target))
 
+nums = [2, 12, 15, 11, 7, 19, 45]
+target = 7
+print(search(nums, target))
